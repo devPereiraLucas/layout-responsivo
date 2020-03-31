@@ -73,3 +73,5 @@ Usamos a tag `<picture>` para que as imagens sejam responsivas.
 ```
 
 Sempre que possível, usar SVG ao invés de JPG, PNG
+
+By @rocketseat && @maykbrito
